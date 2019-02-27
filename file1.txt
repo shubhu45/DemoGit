@@ -1,14 +1,1 @@
-Change 1 by persi
-<<<<<<< HEAD
-Change 2 by persi
-=======
-change 3 by shubhu45
-<<<<<<< HEAD
->>>>>>> fe56cff40eb577650c29e9aef8abfd975aea4ba2
-=======
-change 4 by shubhu45
-<<<<<<< HEAD
->>>>>>> 8f67d24e16a6bf04cbc8b285ef56dad2e4639193
-=======
-change 5 by shubhu45
->>>>>>> 47301c48f3c4b102668fede4e816e2f5a1540973
+Hello Welcome to Git
